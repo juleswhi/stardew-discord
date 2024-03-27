@@ -1,0 +1,10 @@
+﻿{
+    "Name": "PierreHateGroupStardewInterface",
+    "Author": "Jules White",
+    "Version": "0.0.1",
+    "Description": "Pierre is the worst",
+    "UniqueID": "JulesWhite.PierreHateGroupStardewInterface",
+    "EntryDll": "PierreHateGroupStardewInterface.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
