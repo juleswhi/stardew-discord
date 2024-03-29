@@ -3,16 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PierreHateGroupStardewInterface", "PierreHateGroupDiscordInterface\PierreHateGroupStardewInterface.csproj", "{74B62F64-B64F-471C-B238-7F134ACA0721}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PierreHateGroupDiscordBot", "PierreHateGroupDiscordBot\PierreHateGroupDiscordBot.csproj", "{F05C56A7-1D6C-42B2-AADC-41697725E4BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PierreHateGroupDiscordBot", "PierreHateGroupDiscordBot\PierreHateGroupDiscordBot.csproj", "{F05C56A7-1D6C-42B2-AADC-41697725E4BE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C61C808E-ABF1-4FA4-9BF1-D45C4F698E8A}"
 	ProjectSection(SolutionItems) = preProject
+		config.json = config.json
 		napkin.md = napkin.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StardewDiscordPacketer", "StardewDiscordPacketer\StardewDiscordPacketer.csproj", "{77A0F040-B53C-4F5A-92BA-6A0DA552C345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StardewDiscordPacketer", "StardewDiscordPacketer\StardewDiscordPacketer.csproj", "{77A0F040-B53C-4F5A-92BA-6A0DA552C345}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PierreHateGroupStardewInterface", "PierreHateGroupStardewInterface\PierreHateGroupStardewInterface.csproj", "{02A79749-A431-4BA2-8A98-1306DB3796D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74B62F64-B64F-471C-B238-7F134ACA0721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74B62F64-B64F-471C-B238-7F134ACA0721}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74B62F64-B64F-471C-B238-7F134ACA0721}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74B62F64-B64F-471C-B238-7F134ACA0721}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F05C56A7-1D6C-42B2-AADC-41697725E4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F05C56A7-1D6C-42B2-AADC-41697725E4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F05C56A7-1D6C-42B2-AADC-41697725E4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -32,6 +29,10 @@ Global
 		{77A0F040-B53C-4F5A-92BA-6A0DA552C345}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77A0F040-B53C-4F5A-92BA-6A0DA552C345}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77A0F040-B53C-4F5A-92BA-6A0DA552C345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A79749-A431-4BA2-8A98-1306DB3796D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A79749-A431-4BA2-8A98-1306DB3796D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A79749-A431-4BA2-8A98-1306DB3796D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A79749-A431-4BA2-8A98-1306DB3796D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

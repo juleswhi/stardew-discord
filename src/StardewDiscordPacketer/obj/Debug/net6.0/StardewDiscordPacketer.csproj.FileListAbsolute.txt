@@ -10,3 +10,15 @@ C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\Sta
 C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\StardewDiscordPacketer\obj\Debug\net6.0\refint\StardewDiscordPacketer.dll
 C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\StardewDiscordPacketer\obj\Debug\net6.0\StardewDiscordPacketer.pdb
 C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\StardewDiscordPacketer\obj\Debug\net6.0\ref\StardewDiscordPacketer.dll
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\bin\Debug\net6.0\StardewDiscordPacketer.deps.json
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\bin\Debug\net6.0\StardewDiscordPacketer.dll
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\bin\Debug\net6.0\StardewDiscordPacketer.pdb
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\obj\Debug\net6.0\StardewDiscordPacketer.csproj.AssemblyReference.cache
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\obj\Debug\net6.0\StardewDiscordPacketer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\obj\Debug\net6.0\StardewDiscordPacketer.AssemblyInfoInputs.cache
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\obj\Debug\net6.0\StardewDiscordPacketer.AssemblyInfo.cs
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\obj\Debug\net6.0\StardewDiscordPacketer.csproj.CoreCompileInputs.cache
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\obj\Debug\net6.0\StardewDiscordPacketer.dll
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\obj\Debug\net6.0\refint\StardewDiscordPacketer.dll
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\obj\Debug\net6.0\StardewDiscordPacketer.pdb
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\StardewDiscordPacketer\obj\Debug\net6.0\ref\StardewDiscordPacketer.dll

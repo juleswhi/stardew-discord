@@ -13,5 +13,15 @@ internal class ModEntry : Mod
         Monitor.Log($"Starting Stardew!, Sending startup", LogLevel.Info);
         await MessageHandler.SendStartup();
         Monitor.Log($"Sent startup", LogLevel.Info);
+
+    }
+
+    private async void OnLoadStageChanged(object sender, LoadStageChangedEventArgs e)
+    {
+        if(e.NewStage == StardewModdingAPI.Enums.LoadStage.Ready && 
+            Context.IsWorldReady)
+        {
+            await MessageHandler.SendMessageAsync($"Stardew World Loaded!", StardewDiscordPacketer.PacketType.NOTIFY);
+        }
     }
 }

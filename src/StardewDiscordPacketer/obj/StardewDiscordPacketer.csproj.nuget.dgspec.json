@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {}
+    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
+    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
+        "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
         "projectName": "StardewDiscordPacketer",
-        "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
+        "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
         "packagesPath": "C:\\Users\\i hate windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\obj\\",
+        "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Dapper/2.1.35": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Discord.Net.Core/3.14.1": {
         "type": "package",
         "dependencies": {
@@ -419,6 +432,37 @@
           }
         }
       },
+      "Stub.System.Data.SQLite.Core.NetStandard/1.0.118": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "related": ".dll.altconfig;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "related": ".dll.altconfig;.xml"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/SQLite.Interop.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -517,6 +561,12 @@
           "ref/netstandard1.3/System.Console.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "System.Data.SQLite.Core/1.0.118": {
+        "type": "package",
+        "dependencies": {
+          "Stub.System.Data.SQLite.Core.NetStandard": "[1.0.118]"
         }
       },
       "System.Diagnostics.Debug/4.3.0": {
@@ -1550,6 +1600,27 @@
     }
   },
   "libraries": {
+    "Dapper/2.1.35": {
+      "sha512": "YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "type": "package",
+      "path": "dapper/2.1.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.1.35.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/net7.0/Dapper.dll",
+        "lib/net7.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml",
+        "readme.md"
+      ]
+    },
     "Discord.Net.Core/3.14.1": {
       "sha512": "SI5H5xdCbx13ub1v1SY7u0O8+sA1eeeQfMYlhjGkrQV7z52vJdkxgaKBz70zQiy+RG08Ro9zKXMRt2xsmCaL5g==",
       "type": "package",
@@ -2052,6 +2123,27 @@
         "sprache.nuspec"
       ]
     },
+    "Stub.System.Data.SQLite.Core.NetStandard/1.0.118": {
+      "sha512": "4TS8IZvDj0ud6utxfXI6zv9Ditk4U9Kt9KqLyAIQGcU3GXp5oGBHgGZifq+APcqRCayuN/MSE8t9ZZmygtU28A==",
+      "type": "package",
+      "path": "stub.system.data.sqlite.core.netstandard/1.0.118",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/System.Data.SQLite.dll",
+        "lib/netstandard2.0/System.Data.SQLite.dll.altconfig",
+        "lib/netstandard2.0/System.Data.SQLite.xml",
+        "lib/netstandard2.1/System.Data.SQLite.dll",
+        "lib/netstandard2.1/System.Data.SQLite.dll.altconfig",
+        "lib/netstandard2.1/System.Data.SQLite.xml",
+        "runtimes/linux-x64/native/SQLite.Interop.dll",
+        "runtimes/osx-x64/native/SQLite.Interop.dll",
+        "runtimes/win-x64/native/SQLite.Interop.dll",
+        "runtimes/win-x86/native/SQLite.Interop.dll",
+        "stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+        "stub.system.data.sqlite.core.netstandard.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -2317,6 +2409,17 @@
         "ref/xamarinwatchos10/_._",
         "system.console.4.3.0.nupkg.sha512",
         "system.console.nuspec"
+      ]
+    },
+    "System.Data.SQLite.Core/1.0.118": {
+      "sha512": "2V1PsfBeqWlZxF/VtB8lQKPfDBayCU8zD5Xc3Mq7cILOa2ZqpPDSwMP0fTfk1gtGSStSk//DxKiGy6zwCQs7Uw==",
+      "type": "package",
+      "path": "system.data.sqlite.core/1.0.118",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "system.data.sqlite.core.1.0.118.nupkg.sha512",
+        "system.data.sqlite.core.nuspec"
       ]
     },
     "System.Diagnostics.Debug/4.3.0": {
@@ -5138,10 +5241,12 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Dapper >= 2.1.35",
       "Discord.Net.Core >= 3.14.1",
       "Discord.Net.WebSocket >= 3.14.1",
       "DotNetEnv >= 3.0.0",
-      "StardewDiscordPacketer >= 1.0.0"
+      "StardewDiscordPacketer >= 1.0.0",
+      "System.Data.SQLite.Core >= 1.0.118"
     ]
   },
   "packageFolders": {
@@ -5151,11 +5256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
+      "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
       "projectName": "PierreHateGroupDiscordBot",
-      "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
+      "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
       "packagesPath": "C:\\Users\\i hate windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\PierreHateGroupDiscordBot\\obj\\",
+      "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5177,8 +5282,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
-              "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj"
+            "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
+              "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj"
             }
           }
         }
@@ -5193,6 +5298,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.1.35, )"
+          },
           "Discord.Net.Core": {
             "target": "Package",
             "version": "[3.14.1, )"
@@ -5204,6 +5313,10 @@
           "DotNetEnv": {
             "target": "Package",
             "version": "[3.0.0, )"
+          },
+          "System.Data.SQLite.Core": {
+            "target": "Package",
+            "version": "[1.0.118, )"
           }
         },
         "imports": [

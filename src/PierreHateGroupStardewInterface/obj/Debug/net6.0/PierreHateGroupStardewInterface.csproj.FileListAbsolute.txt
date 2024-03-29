@@ -9,3 +9,14 @@ C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\Pie
 C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordInterface\bin\Debug\net6.0\StardewDiscordPacketer.dll
 C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordInterface\bin\Debug\net6.0\StardewDiscordPacketer.pdb
 C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordInterface\obj\Debug\net6.0\PierreHateGroupStardewInterface.csproj.CopyComplete
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\bin\Debug\net6.0\PierreHateGroupStardewInterface.deps.json
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\bin\Debug\net6.0\PierreHateGroupStardewInterface.dll
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\bin\Debug\net6.0\StardewDiscordPacketer.dll
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\bin\Debug\net6.0\StardewDiscordPacketer.pdb
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\obj\Debug\net6.0\PierreHateGroupStardewInterface.csproj.AssemblyReference.cache
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\obj\Debug\net6.0\PierreHateGroupStardewInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\obj\Debug\net6.0\PierreHateGroupStardewInterface.AssemblyInfoInputs.cache
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\obj\Debug\net6.0\PierreHateGroupStardewInterface.AssemblyInfo.cs
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\obj\Debug\net6.0\PierreHateGroupStardewInterface.csproj.CoreCompileInputs.cache
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\obj\Debug\net6.0\PierreHateGroupStardewInterface.csproj.CopyComplete
+C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupStardewInterface\obj\Debug\net6.0\PierreHateGroupStardewInterface.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj": {}
+    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj": {
+    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
+        "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
         "projectName": "PierreHateGroupDiscordBot",
-        "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
+        "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
         "packagesPath": "C:\\Users\\i hate windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\PierreHateGroupDiscordBot\\obj\\",
+        "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
-                "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj"
+              "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
+                "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj"
               }
             }
           }
@@ -49,6 +49,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
             "Discord.Net.Core": {
               "target": "Package",
               "version": "[3.14.1, )"
@@ -60,6 +64,10 @@
             "DotNetEnv": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.118, )"
             }
           },
           "imports": [
@@ -82,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
+    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
+        "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
         "projectName": "StardewDiscordPacketer",
-        "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
+        "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
         "packagesPath": "C:\\Users\\i hate windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroup\\StardewDiscordPacketer\\obj\\",
+        "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
