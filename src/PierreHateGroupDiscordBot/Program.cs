@@ -6,13 +6,14 @@ using PierreHateGroupDiscordBot.WebSocketHandler;
 
 public class Program
 {
-    public static DiscordSocketClient? _client;
-    public static SocketGuild? _guild;
-    public static SocketTextChannel? _notifyChannel;
+    private static DiscordSocketClient? _client;
+    private static SocketGuild? _guild;
+    private static SocketTextChannel? _notifyChannel;
     public static async Task Main()
     {
         DotNetEnv.Env.Load();
         string token = DotNetEnv.Env.GetString("CONN_STRING");
+
         _client = new();
 
         await _client.LoginAsync(TokenType.Bot, token);
@@ -39,7 +40,7 @@ public class Program
 
     private static async Task _client_SlashCommandExecuted(SocketSlashCommand command)
     {
-        switch(command.Data.Name)
+        switch (command.Data.Name)
         {
             case "hello":
                 await HandleHello(command);
@@ -47,7 +48,9 @@ public class Program
             case "set-notify-channel":
                 await HandleNotifyChannel(command);
                 break;
-
+            case "money":
+                await HandleMoneyRequest(command);
+                break;
         }
     }
 
@@ -58,6 +61,10 @@ public class Program
             .Contains("stardew"))?
             .GetTextChannel(command.Channel.Id);
         await command.RespondAsync("Updated channel", ephemeral: true);
+    }
+
+    private static async Task HandleMoneyRequest(SocketSlashCommand command) {
+        await Task.Delay(1);
     }
 
     private static async Task HandleHello(SocketSlashCommand command)

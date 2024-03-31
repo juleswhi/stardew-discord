@@ -11,8 +11,10 @@ internal class ModEntry : Mod
     public override async void Entry(IModHelper helper)
     {
         Monitor.Log($"Starting Stardew!, Sending startup", LogLevel.Info);
-        await MessageHandler.SendStartup();
+        await MessageHandler.SendStartupAsync();
         Monitor.Log($"Sent startup", LogLevel.Info);
+
+        new GoldHunter(helper, Monitor);
 
     }
 

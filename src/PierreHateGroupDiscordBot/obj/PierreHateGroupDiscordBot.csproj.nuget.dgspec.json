@@ -1,40 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj": {}
+    "/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/PierreHateGroupDiscordBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj": {
+    "/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/PierreHateGroupDiscordBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
+        "projectUniqueName": "/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/PierreHateGroupDiscordBot.csproj",
         "projectName": "PierreHateGroupDiscordBot",
-        "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\PierreHateGroupDiscordBot.csproj",
-        "packagesPath": "C:\\Users\\i hate windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupDiscordBot\\obj\\",
+        "projectPath": "/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/PierreHateGroupDiscordBot.csproj",
+        "packagesPath": "/home/juleswhite/.nuget/packages/",
+        "outputPath": "/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\i hate windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/juleswhite/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\i hate windows\\Documents\\GitHub\\ssd-winforms-tooling\\src": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
-                "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj"
+              "/home/juleswhite/projects/stardew-discord/src/StardewDiscordPacketer/StardewDiscordPacketer.csproj": {
+                "projectPath": "/home/juleswhite/projects/stardew-discord/src/StardewDiscordPacketer/StardewDiscordPacketer.csproj"
               }
             }
           }
@@ -76,8 +69,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -86,33 +78,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.127/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
+    "/home/juleswhite/projects/stardew-discord/src/StardewDiscordPacketer/StardewDiscordPacketer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
+        "projectUniqueName": "/home/juleswhite/projects/stardew-discord/src/StardewDiscordPacketer/StardewDiscordPacketer.csproj",
         "projectName": "StardewDiscordPacketer",
-        "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
-        "packagesPath": "C:\\Users\\i hate windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\obj\\",
+        "projectPath": "/home/juleswhite/projects/stardew-discord/src/StardewDiscordPacketer/StardewDiscordPacketer.csproj",
+        "packagesPath": "/home/juleswhite/.nuget/packages/",
+        "outputPath": "/home/juleswhite/projects/stardew-discord/src/StardewDiscordPacketer/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\i hate windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/juleswhite/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\i hate windows\\Documents\\GitHub\\ssd-winforms-tooling\\src": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -142,8 +127,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -152,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.127/RuntimeIdentifierGraph.json"
         }
       }
     }

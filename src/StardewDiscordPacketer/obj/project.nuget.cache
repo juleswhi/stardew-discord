@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i4XUv6FS5Jz6nMTcUrhHKK8TMIjlhE0lHmhu7dvFOdj9EMZS/9q67cAowpL1Glslz+MchqJPJFPu+PxlJBEgqA==",
+  "dgSpecHash": "kpBzM66axZVlyH0YgBOGSz//I6yK1lxtmwRycD85nLcqroE75FNqhuVfPSML1x/3HnatoDu+9YmTOkxweT1f3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj",
+  "projectFilePath": "/home/juleswhite/projects/stardew-discord/src/StardewDiscordPacketer/StardewDiscordPacketer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\i hate windows\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/juleswhite/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

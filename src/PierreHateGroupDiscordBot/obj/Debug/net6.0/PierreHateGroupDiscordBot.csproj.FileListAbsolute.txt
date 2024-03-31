@@ -1,68 +1,105 @@
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.exe
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.deps.json
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.runtimeconfig.json
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.pdb
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.AssemblyInfoInputs.cache
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.AssemblyInfo.cs
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.csproj.CoreCompileInputs.cache
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\refint\PierreHateGroupDiscordBot.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.pdb
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.genruntimeconfig.cache
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\ref\PierreHateGroupDiscordBot.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\Discord.Net.Core.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\System.Interactive.Async.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\System.Linq.Async.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.csproj.AssemblyReference.cache
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.csproj.CopyComplete
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\DotNetEnv.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\Sprache.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\Discord.Net.Rest.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\StardewDiscordPacketer.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroup\PierreHateGroupDiscordBot\bin\Debug\net6.0\StardewDiscordPacketer.pdb
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.exe
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.dll.config
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.deps.json
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.runtimeconfig.json
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\PierreHateGroupDiscordBot.pdb
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Discord.Net.Core.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Discord.Net.Rest.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\DotNetEnv.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Sprache.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\System.Interactive.Async.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\System.Linq.Async.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\StardewDiscordPacketer.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\StardewDiscordPacketer.pdb
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.csproj.AssemblyReference.cache
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.AssemblyInfoInputs.cache
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.AssemblyInfo.cs
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.csproj.CoreCompileInputs.cache
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.csproj.CopyComplete
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\refint\PierreHateGroupDiscordBot.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.pdb
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.genruntimeconfig.cache
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\ref\PierreHateGroupDiscordBot.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\Dapper.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\System.Data.SQLite.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
-C:\Users\i hate windows\Documents\GitHub\stardew-discord\src\PierreHateGroupDiscordBot\obj\Debug\net6.0\PierreHateGroupDiscordBot.csproj.ResolveComReference.cache
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.exe
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.deps.json
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.runtimeconfig.json
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.pdb
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.AssemblyInfoInputs.cache
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.AssemblyInfo.cs
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.CoreCompileInputs.cache
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/refint/PierreHateGroupDiscordBot.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.pdb
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.genruntimeconfig.cache
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/ref/PierreHateGroupDiscordBot.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/Discord.Net.Core.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/System.Interactive.Async.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/System.Linq.Async.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.AssemblyReference.cache
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.CopyComplete
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/DotNetEnv.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/Sprache.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/Discord.Net.Rest.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/Discord.Net.WebSocket.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/StardewDiscordPacketer.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroup/PierreHateGroupDiscordBot/bin/Debug/net6.0/StardewDiscordPacketer.pdb
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.exe
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.dll.config
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.deps.json
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.runtimeconfig.json
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.pdb
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Discord.Net.Core.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Discord.Net.Rest.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Discord.Net.WebSocket.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/DotNetEnv.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Sprache.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/System.Interactive.Async.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/System.Linq.Async.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/StardewDiscordPacketer.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/StardewDiscordPacketer.pdb
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.AssemblyReference.cache
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.AssemblyInfoInputs.cache
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.AssemblyInfo.cs
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.CoreCompileInputs.cache
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.CopyComplete
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/refint/PierreHateGroupDiscordBot.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.pdb
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.genruntimeconfig.cache
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/ref/PierreHateGroupDiscordBot.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Dapper.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/System.Data.SQLite.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/runtimes/linux-x64/native/SQLite.Interop.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/runtimes/osx-x64/native/SQLite.Interop.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/runtimes/win-x64/native/SQLite.Interop.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/runtimes/win-x86/native/SQLite.Interop.dll
+C:/Users/i hate windows/Documents/GitHub/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.ResolveComReference.cache
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.AssemblyReference.cache
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/ref/PierreHateGroupDiscordBot.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.pdb
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.dll.config
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.deps.json
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.runtimeconfig.json
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/ref/PierreHateGroupDiscordBot.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/PierreHateGroupDiscordBot.pdb
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Dapper.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Discord.Net.Core.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Discord.Net.Rest.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Discord.Net.WebSocket.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/DotNetEnv.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/Sprache.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/System.Data.SQLite.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/System.Interactive.Async.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/System.Linq.Async.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/runtimes/linux-x64/native/SQLite.Interop.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/runtimes/osx-x64/native/SQLite.Interop.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/runtimes/win-x64/native/SQLite.Interop.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/runtimes/win-x86/native/SQLite.Interop.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/StardewDiscordPacketer.dll
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/bin/Debug/net6.0/StardewDiscordPacketer.pdb
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.AssemblyInfoInputs.cache
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.AssemblyInfo.cs
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.CoreCompileInputs.cache
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.csproj.CopyComplete
+/home/juleswhite/projects/stardew-discord/src/PierreHateGroupDiscordBot/obj/Debug/net6.0/PierreHateGroupDiscordBot.genruntimeconfig.cache

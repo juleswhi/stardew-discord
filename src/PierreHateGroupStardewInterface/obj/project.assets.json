@@ -5,14 +5,10 @@
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Newtonsoft.Json.dll": {}
         }
       },
       "Pathoschild.Stardew.ModBuildConfig/4.1.1": {
@@ -99,40 +95,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\i hate windows\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/juleswhite/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupStardewInterface\\PierreHateGroupStardewInterface.csproj",
+      "projectUniqueName": "/home/juleswhite/projects/stardew-discord/src/PierreHateGroupStardewInterface/PierreHateGroupStardewInterface.csproj",
       "projectName": "PierreHateGroupStardewInterface",
-      "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupStardewInterface\\PierreHateGroupStardewInterface.csproj",
-      "packagesPath": "C:\\Users\\i hate windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\PierreHateGroupStardewInterface\\obj\\",
+      "projectPath": "/home/juleswhite/projects/stardew-discord/src/PierreHateGroupStardewInterface/PierreHateGroupStardewInterface.csproj",
+      "packagesPath": "/home/juleswhite/.nuget/packages/",
+      "outputPath": "/home/juleswhite/projects/stardew-discord/src/PierreHateGroupStardewInterface/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\i hate windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/juleswhite/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\i hate windows\\Documents\\GitHub\\ssd-winforms-tooling\\src": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj": {
-              "projectPath": "C:\\Users\\i hate windows\\Documents\\GitHub\\stardew-discord\\src\\StardewDiscordPacketer\\StardewDiscordPacketer.csproj"
+            "/home/juleswhite/projects/stardew-discord/src/StardewDiscordPacketer/StardewDiscordPacketer.csproj": {
+              "projectPath": "/home/juleswhite/projects/stardew-discord/src/StardewDiscordPacketer/StardewDiscordPacketer.csproj"
             }
           }
         }
@@ -158,8 +146,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -168,7 +155,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.127/RuntimeIdentifierGraph.json"
       }
     }
   }
