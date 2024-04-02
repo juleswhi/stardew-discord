@@ -1,4 +1,5 @@
 ﻿using System.Net;
+using System.Text;
 using StardewDiscordPacketer;
 
 namespace PierreHateGroupDiscordBot.WebSocketHandler;
@@ -29,14 +30,34 @@ internal class StardewSocketHandler
             while(!cts.Token.IsCancellationRequested)
             {
                 var context = await listener.GetContextAsync();
-                var req = context.Request;
+                var request = context.Request;
+                var response = context.Response;
 
-                using var reader = new StreamReader(req.InputStream, req.ContentEncoding);
-                string packet = await reader.ReadToEndAsync();
+                using var reader = new StreamReader(request.InputStream, request.ContentEncoding);
+                string res = await reader.ReadToEndAsync();
 
-                Packet? message = Packet.FromJson(packet);
+                Packet? packet = Packet.FromJson(res);
 
-                MessageReceived?.Invoke(this, message);
+                if(request.Url?.AbsolutePath == "/health") {
+                    string responseString = "Service is online";
+                    byte[] buffer = Encoding.UTF8.GetBytes(responseString);
+                    response.ContentLength64 = buffer.Length;
+                    Stream output = response.OutputStream;
+                    output.Write(buffer, 0, buffer.Length);
+                    output.Close();
+                    Console.WriteLine($"Received health check");
+                    continue;
+                }
+
+                if(packet?.Type == PacketType.STARTUP) {
+                    byte[] buffer = Encoding.UTF8.GetBytes("Recieved");
+                    response.ContentLength64 = buffer.Length;
+                    Stream output = response.OutputStream;
+                    await output.WriteAsync(buffer, 0, buffer.Length);
+                    output.Close();
+                }
+
+                MessageReceived?.Invoke(this, packet);
             }
         }
 

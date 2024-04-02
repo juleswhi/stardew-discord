@@ -1,6 +1,6 @@
 ﻿namespace PierreHateGroupDiscordBot.DAL;
 
-internal class DbUser
+public class DbUser : DbObject
 {
     public int DiscordID { get; set; }
     public int StardewID { get; set; }
